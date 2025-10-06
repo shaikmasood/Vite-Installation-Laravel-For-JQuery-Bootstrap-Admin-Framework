@@ -65,6 +65,6 @@ Step 7. If you run "npm run dev", it will work fine but for "npm run build" you 
     		-> Import package in vite.config.js file
     			import commonjs from 'vite-plugin-commonjs';
     			
-    		-> Add "commonjs()" in above plugin object defined in vite.config.js in Step 3
+    		-> Add "commonjs()" in above plugin object defined in vite.config.js in Step 5
 
         vite-plugin-commonjs - This package support the libraries that haven’t migrated to ES modules.
