@@ -19,11 +19,11 @@ Step 4. In resources/js/app.js
 
 Step 5. In resources/js/bootstrap.js
 
-		window._ = require('lodash'); replace with import _ from 'lodash'; window._ = _;
+		window._ = require('lodash'); **Replace with** import _ from 'lodash'; window._ = _;
 		
-		window.axios = require('axios'); Replace with import axios from 'axios'; window.axios = axios;
+		window.axios = require('axios'); **Replace with** import axios from 'axios'; window.axios = axios;
 
-		window.Pusher = require('pusher-js'); repalce with import Pusher from 'pusher-js'; window.Pusher = Pusher; 
+		window.Pusher = require('pusher-js'); **Repalce with** import Pusher from 'pusher-js'; window.Pusher = Pusher; 
 
 Step 6. Remove mix keys and add Vite in env file
 
