@@ -1,4 +1,4 @@
-# Vite-Installation-in-Laravel-for-JQuery-and-Bootstrap-Admin-framework
+# Vite-Installation-Laravel-For-JQuery-Bootstrap-Admin-Framework
 
 Step 1. Remove mix(webpack.mix.js) from root folder by running below command
 
