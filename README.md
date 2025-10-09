@@ -15,7 +15,7 @@ Step 3. Update NPM **script** in package.json, just keep below 2 values
 		"build": "vite build"
 
 Step 4. In resources/js/app.js
-		Replace require('./bootstrap'); with import './bootstrap';
+		Replace "require('./bootstrap');" with "import './bootstrap';"
 
 Step 5. In resources/js/bootstrap.js
 
